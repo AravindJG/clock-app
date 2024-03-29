@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/clock-app/static/css/main.16886a60.css",
+    "main.js": "/clock-app/static/js/main.3a28d6e5.js",
+    "index.html": "/clock-app/index.html",
+    "main.16886a60.css.map": "/clock-app/static/css/main.16886a60.css.map",
+    "main.3a28d6e5.js.map": "/clock-app/static/js/main.3a28d6e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16886a60.css",
+    "static/js/main.3a28d6e5.js"
+  ]
+}
